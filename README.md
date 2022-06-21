@@ -1,5 +1,5 @@
 <h1 align="left">API Filmes</h1>
-<p align="left">Aplicação para visualisar os filmes/séries mais assistidos do momento</p>
+<p align="left">Aplicação para visualizar os filmes/séries mais assistidos do momento</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
