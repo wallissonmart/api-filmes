@@ -38,7 +38,7 @@ const Navbar = () => {
     <Nav>
       <Ul>
         <li>
-          <Link className="link" to={`/`}>
+          <Link className="link" to={`/api-filmes`}>
             <Li className="li-filmes">FILMES</Li>
           </Link>
         </li>

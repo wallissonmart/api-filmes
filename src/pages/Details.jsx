@@ -109,7 +109,7 @@ const Details = () => {
             <span className="release-date">
               Data de lançamento: {movie.releaseDate}
             </span>
-            <Link to={`/`}>
+            <Link to={`/api-filmes`}>
               <button>Voltar</button>
             </Link>
           </div>
